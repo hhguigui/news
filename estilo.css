@@ -1,0 +1,15 @@
+    body {
+
+    }
+    header {
+background: rgb(29, 29, 29);
+color: aliceblue;
+text-align: center;
+border-radius: 10px;
+    }
+    main {
+        border-radius: 10px;
+background: rgb(29, 29, 29);
+color: aliceblue;
+text-align: center;
+    }
